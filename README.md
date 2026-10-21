@@ -1,0 +1,2 @@
+# funny-bash-script
+:)
